@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Yanx Apps - Development of applications that offer unique experiences.</title>
+	<atom:link href="https://yandelgil.github.io/tag/google-translate/feed/" rel="self" type="application/rss+xml" />
+	<link>https://yandelgil.github.io/</link>
+	<description>Development of applications that offer unique experiences.</description>
+	<lastBuildDate>Tue, 08 Oct 2024 18:46:18 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+
+<image>
+	<url>https://yandelgil.github.io/wp-content/uploads/2024/10/YanxIcon-150x150.png</url>
+	<title>Yanx Apps - Development of applications that offer unique experiences.</title>
+	<link>https://yandelgil.github.io/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>QuickTranslate &#8211; Instant Translations for macOS Menu Bar</title>
+		<link>https://yandelgil.github.io/quicktranslate/</link>
+		
+		<dc:creator><![CDATA[ㅤ]]></dc:creator>
+		<pubDate>Tue, 08 Oct 2024 18:43:07 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[DeepL]]></category>
+		<category><![CDATA[fast translations]]></category>
+		<category><![CDATA[Google Translate]]></category>
+		<category><![CDATA[instant translations]]></category>
+		<category><![CDATA[language translator macOS]]></category>
+		<category><![CDATA[macOS translator]]></category>
+		<category><![CDATA[menu bar translator]]></category>
+		<category><![CDATA[QuickTranslate]]></category>
+		<category><![CDATA[translate macOS]]></category>
+		<category><![CDATA[translation app]]></category>
+		<guid isPermaLink="false">https://yandelgil.github.io/?p=121</guid>
+
+					<description><![CDATA[<p>Quick Translate 🚀 QuickTranslate is your go-to translator right in the macOS menu bar! Need a quick translation? With QuickTranslate, the best translation services are just one click away. Simple,&#8230;</p>
+<p>The post <a href="https://yandelgil.github.io/quicktranslate/">QuickTranslate &#8211; Instant Translations for macOS Menu Bar</a> appeared first on <a href="https://yandelgil.github.io/">Yanx Apps</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div class="content">
+<table align="center">
+<tbody>
+<tr>
+<td></td>
+<td>
+<h2>Quick Translate</h2>
+</td>
+</tr>
+</tbody>
+</table>
+<p><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f680.png" alt="🚀" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <strong>QuickTranslate</strong> is your go-to translator right in the macOS menu bar!</p>
+<div class="badges"><img decoding="async" src="https://img.shields.io/badge/platform-macOS-blue" alt="Platform" /><br />
+Need a quick translation? With QuickTranslate, the best translation services are just one click away. Simple, fast, and effective!</p>
+<p>Access powerful translations from <strong>Google Translate</strong> and <strong>DeepL Translate</strong> in a sleek, user-friendly interface.</p>
+<h3><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f6e0.png" alt="🛠" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Installation</h3>
+<ol>
+<li>Download the latest version from the <a href="https://github.com/Yandelgil/QuickTranslate/releases/">Releases</a>.</li>
+<li>Unzip the <code>QuickTranslate.zip</code> file.</li>
+<li>Move <code>QuickTranslate.app</code> to your Applications folder.</li>
+<li>Launch <code>QuickTranslate.app</code>. (If you see a security warning, just head to Privacy and Security settings to allow the app to run.)</li>
+<li>Enjoy hassle-free translations right from your menu bar!</li>
+</ol>
+<h3><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f680.png" alt="🚀" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Features</h3>
+<ul class="features">
+<li>Instant access to Google Translate and DeepL Translate from your macOS menu bar.</li>
+</ul>
+<p>Have an idea? We’d love to hear from you! <a href="https://github.com/Yandelgil/QuickTranslate/discussions">Share your feedback</a> and help us make QuickTranslate even better.</p>
+<div class="support">
+<h3>Support the Author</h3>
+<p>Like QuickTranslate? <a href="https://github.com/Yandelgil/QuickTranslate/releases/">Buy me a coffee!</a></p>
+</div>
+</div>
+<p>The post <a href="https://yandelgil.github.io/quicktranslate/">QuickTranslate &#8211; Instant Translations for macOS Menu Bar</a> appeared first on <a href="https://yandelgil.github.io/">Yanx Apps</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
